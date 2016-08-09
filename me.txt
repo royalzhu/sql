@@ -1,2 +1,2 @@
-hello world
-�й�
+﻿hello world
+中国
